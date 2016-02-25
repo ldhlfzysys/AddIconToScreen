@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta content="text/html charset=UTF-8" http-equiv="Content-Type" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no" />
+    <link rel='apple-touch-icon' href='http://www.icosky.com/icon/png/Application/CS%203%20Replacement/AI%20Icon.png'>
+    <title>我的应用</title>
+</head>
+<body>
+    <a href="addicon://" id="qbt" style="display:none"></a>
+    <span id="msg"></span>
+</body>
+<script>
+    if (window.navigator.standalone == true)
+    {
+        var lnk = document.getElementById("qbt").click();
+    }
+    else
+    {
+        document.getElementById("msg").innerHTML='<div style="font-size:12px">a</div>';
+    }
+
+
+</script>
+</html>
+
