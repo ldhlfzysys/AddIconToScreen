@@ -19,7 +19,7 @@
 图标、名字的设置在苹果提供的文档里可以查看：[点击这里你可以链接到苹果官方文档](https://developer.apple.com/library/ios/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html)<br />
 
 判断safari是否全屏
-<pre lang="objc" line="0">
+```
 <script>
     if (window.navigator.standalone == true)
     {
@@ -30,7 +30,7 @@
         document.getElementById("msg").innerHTML='<div style="font-size:12px">可以插入引导页</div>';
     }
 </script>
-</pre>
+```
 
 
 应用部分截图
@@ -38,7 +38,7 @@
  ![image](https://github.com/ldhlfzysys/AddIconToScreen/blob/master/Screenshot/2.png)
  
  
- # Web文件夹说明
- index.html  ---应用内搭建服务器主页
- content.html ---用作主页的跳转页，通过Data URI放在主页中
- webOnServer.html ---方案一服务器端用到的页面
+ # Web文件夹说明<br>
+ index.html  ---应用内搭建服务器主页<br>
+ content.html ---用作主页的跳转页，通过Data URI放在主页中<br>
+ webOnServer.html ---方案一服务器端用到的页面<br>
