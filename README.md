@@ -2,7 +2,7 @@
 ====
 
 iOS添加快捷方式到桌面
-<a href="http://liudonghuan.com" target="_blank">我的博客</a> 
+<a href="http://www.jianshu.com/p/86a5e35ef2ab" target="_blank">我的博客</a> 
 
 用户在使用如微博、淘宝、贴吧、百度地图时，有些页面打开频率非常高，甚至某个应用只为了这几个单一的功能，这个时候，可以将对应的功能页面以快捷方式添加到桌面上。
 
