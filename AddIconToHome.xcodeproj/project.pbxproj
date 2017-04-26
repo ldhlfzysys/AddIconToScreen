@@ -137,6 +137,7 @@
 				TargetAttributes = {
 					B839DA351C7D5C2000AF873B = {
 						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = 6XB2PBHRRB;
 					};
 				};
 			};
@@ -329,9 +330,10 @@
 			baseConfigurationReference = AFB189C4C7DC35CDBA4F4B75 /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6XB2PBHRRB;
 				INFOPLIST_FILE = AddIconToHome/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Dwight.AddIconToHome;
+				PRODUCT_BUNDLE_IDENTIFIER = com.516680.ww;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -341,9 +343,10 @@
 			baseConfigurationReference = A94C1850D4B85356147DA3C0 /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6XB2PBHRRB;
 				INFOPLIST_FILE = AddIconToHome/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Dwight.AddIconToHome;
+				PRODUCT_BUNDLE_IDENTIFIER = com.516680.ww;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
