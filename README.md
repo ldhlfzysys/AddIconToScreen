@@ -85,7 +85,7 @@ OpenUrl在这个功能的利用就是：
 
 该项目的Demo: [iOS添加快捷方式到桌面](https://github.com/ldhlfzysys/AddIconToScreen)
 
-微博：@刘东寰
+
 
 
 
