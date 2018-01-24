@@ -3,7 +3,6 @@
 
 #####涉及：OpenUrl、iOS shceme、Data URI Scheme、JS、Socket#
 #####功能：将应用的某一个页面或某一个功能以快捷方式形式添加到桌面，用户点击桌面图标，可以唤起应用并打开对应页面或功能。
->欢迎转载分享 微博@刘东寰 
 <a href="http://www.jianshu.com/p/86a5e35ef2ab" target="_blank">我的博客</a> 
 
 ---
